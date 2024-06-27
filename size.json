@@ -1,0 +1,7 @@
+{
+    "Small": [0, 299],
+    "Medium": [300, 599],
+    "Large": [600, 899],
+    "Extra Large": [900, 2000],
+    "Undefined":[0,0]
+}
