@@ -13,7 +13,7 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=
 ```
 Install mmtrack
 ```bash
-!git clone https://github.com/open-mmlab/mmtracking.git
+git clone https://github.com/open-mmlab/mmtracking.git
 ```
 
 ## Running Tests
@@ -26,5 +26,8 @@ If you want to test whether it works properly, you can download the weights here
 
 ## Demo
 You can enter the guick_run notebook and make a demo with the video called coconut. Just run it step by step and make sure that variables such as data path are correct in the config files.
+
+
+
 ![me](https://github.com/tutenstein/product-line-object-tracking-by-mmtrack/blob/main/result.gif)
 
