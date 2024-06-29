@@ -18,7 +18,7 @@ git clone https://github.com/open-mmlab/mmtracking.git
 
 ## Running Tests
 
-If you want to test whether it works properly, you can download the weights here and try it.
+If you want to test whether it works properly, you can download the weights [here](https://drive.google.com/file/d/17USVkFwbzz2ZuDlSV2iuOwYC0Ypaqcfa/view?usp=sharing) and try it.
 
 ```bash
   python tools/processVideo.py --input-dir test.mp4 --config models/deepsort_faster-rcnn_fpn_4e_mot17-private-half.py --detector-checkpoint detector.pth --reid-checkpoint reid.pth --output-video demo.mp4
