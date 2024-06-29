@@ -26,4 +26,5 @@ If you want to test whether it works properly, you can download the weights here
 
 ## Demo
 You can enter the guick_run notebook and make a demo with the video called coconut. Just run it step by step and make sure that variables such as data path are correct in the config files.
+![me](./result.gif)
 
